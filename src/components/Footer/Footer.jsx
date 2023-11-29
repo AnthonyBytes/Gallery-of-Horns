@@ -1,9 +1,12 @@
 import React from 'react';
 
-function Footer() {
+function Footer(props) {
+  
   return (
     <footer>
-      &copy; Anthony Blanton
+      <div>
+        {props.content}
+      </div>
     </footer>
   )
 }
