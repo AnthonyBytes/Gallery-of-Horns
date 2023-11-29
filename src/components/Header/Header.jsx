@@ -1,9 +1,10 @@
 import React from 'react';
 
-function Header() {
+function Header(prop) {
+  
   return (
     <header>
-      <h1>Horned Beast</h1>
+      <h1>{prop.title}</h1>
     </header>
   )
 }
