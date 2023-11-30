@@ -1,37 +1,15 @@
-Lab 2
+Lab 3
 
-## Number and name of feature: Feature #1: Display Images
+## Number and name of feature: Feature #1: Display a Modal
 
-Estimate of time needed to complete: 2hrs
+Estimate of time needed to complete: 2.5hrs
 
-Start time: 3pm
+Start time: 3:30pm
 
-Finish time: 4:30pm
-
-Actual time needed to complete: 1.5hrs
-
-
-
-
-## Number and name of feature: Feature #2: Allow Users to Favorite Individual Beasts
-
-Estimate of time needed to complete: 2hrs
-
-Start time: 9:00pm
-
-Finish time: 10:30pm
+Finish time: 5:00pm
 
 Actual time needed to complete: 1.5hrs
 
+lighthouse score 
 
-
-
-## Number and name of feature: Feature 3: Bootstrap
-
-Estimate of time needed to complete: 2hrs
-
-Start time: 10:30pm
-
-Finish time: 11:30pm
-
-Actual time needed to complete: 1hr
+<img src='screenshot>
