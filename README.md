@@ -9,7 +9,3 @@ Start time: 3:30pm
 Finish time: 5:00pm
 
 Actual time needed to complete: 1.5hrs
-
-lighthouse score 
-
-<img src='screenshot>
