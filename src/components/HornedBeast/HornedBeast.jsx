@@ -18,7 +18,7 @@ function HornedBeast(props) {
 
   return (
     <Col xs={12} sm={6} md={4} lg={3}>
-      <Card style={{ marginBottom: '20px' }}>
+      <Card style={{ marginBottom: '20px', width: '18rem' }}>
         <Card.Img
           variant="top"
           src={props.beast.image_url}
