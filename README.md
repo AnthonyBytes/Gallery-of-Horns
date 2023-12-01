@@ -1,11 +1,11 @@
-Lab 3
+Lab 4
 
-## Number and name of feature: Feature #1: Display a Modal
+## Feature 1. Filter by Numbers of Horns
 
 Estimate of time needed to complete: 2.5hrs
 
-Start time: 3:30pm
+Start time: 2:30pm, 6:30pm
 
-Finish time: 5:00pm
+Finish time: 5:00pm, 10pm
 
-Actual time needed to complete: 1.5hrs
+Actual time needed to complete: 6hrs
