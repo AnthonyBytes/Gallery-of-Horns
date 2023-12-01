@@ -1,8 +1,17 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Modal from 'react-bootstrap/Modal';
+import PropTypes from 'prop-types';
+
+HornedBeast.propTypes = {
+  beast: PropTypes.shape({
+    title: PropTypes.string.isRequired,
+    description: PropTypes.string.isRequired,
+    image_url: PropTypes.string.isRequired,
+  }).isRequired,
+};
 
 function HornedBeast(props) {
   const [favorites, setFavorites] = useState(0);
